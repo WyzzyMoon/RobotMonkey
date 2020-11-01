@@ -1,5 +1,4 @@
 # RobotMonkey
-==============
 
 RobotMonkey is an open source remote clicker for presentations.
 It allows you to control a PowerPoint/Keynote that is running on a computer with an internet connection from anywhere in the world.
