@@ -1,0 +1,41 @@
+body {
+background-color: #000000;
+color: #ffffff;
+font-family: 'Roboto', sans-serif;
+}
+
+input{
+width:195px;
+}
+
+.Controlls{
+ background-color: RGBA(255, 255, 255, 0.2);
+ width: 200px;
+ height: 130px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 40px;
+padding: 20px;
+border-radius: 5px;
+}
+
+.button {
+  background-color: #555555; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-decoration: none;
+  display: inline-block;
+border-radius: 4px;
+  font-size: 30px;
+}
+.button:active {
+  color: #67C0DA;
+}
+
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
